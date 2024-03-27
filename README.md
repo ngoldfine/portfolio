@@ -1,4 +1,4 @@
-# Nora Goldfine | Data Science, Natural Language Processing, Linguistics
+# Nora Goldfine – Data Science, Natural Language Processing, Linguistics
 
 ## Education
 - M.S., Computational Linguistics | University of Washington (_August 2023_)
