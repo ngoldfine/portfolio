@@ -1,8 +1,8 @@
 # Nora Goldfine – Data Science, Natural Language Processing, Linguistics
 
 ## Education
-- M.S., Computational Linguistics | University of Washington (_August 2023_)
-- B.A., Linguistics | University of Wisconsin-Madison (_May 2019_)
+- M.S., Computational Linguistics | University of Washington (_August 2023_, 4.0 GPA)
+- B.A., Linguistics | University of Wisconsin-Madison (_May 2019_, 3.99 GPA)
 
 ## Experience
 
