@@ -13,7 +13,7 @@
 
 **Research Assistant | Language and Cognitive Neuroscience Lab, University of Wisconsin-Madison (_2019_)**
 - Utilized **Python**, **R** and **RStudio** to process, visualize and analyze language data.
-- Transcribed language data using the International Phonetic Alphabet for the use of University of Wisconsin-Madison researchers.
+- Transcribed language data using the **International Phonetic Alphabet** for the use of University of Wisconsin-Madison researchers.
 - Dependably conducted tasks independently, with minimal supervision.
 
 ## Projects
