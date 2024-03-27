@@ -36,7 +36,7 @@
 
 [Course project paper](https://github.com/ngoldfine/portfolio/files/14779736/ling575_final_project.pdf)
 
-- Resourcefully **curated a multilingual dataset** of historical Italian texts from online sources.
+- Resourcefully **curated a multilingual dataset** of historical Italian-peninsula texts from online sources.
 - Utilized **Python**, **SpaCy**, **Jupyter Notebook**, **Pandas**, **Scikit-Learn**, **matplotlib** and **Seaborn** to preprocess, analyze and visualize data.
 - Leveraged **Italian language knowledge** during dataset cleaning and analysis, allowing for a more informed and nuanced interpretation of results.
 
