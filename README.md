@@ -2,6 +2,7 @@
 
 ## Education
 M.S., Computational Linguistics | University of Washington | _August 2023_ | 3.99 GPA
+
 B.A., Linguistics | University of Wisconsin-Madison | _May 2019_ | 4.0 GPA
 
 ## Experience
