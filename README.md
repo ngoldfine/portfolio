@@ -1,6 +1,6 @@
 ## Data Science | Natural Language Processing
 
-## [Education](https://ngoldfine.github.io/education/) 🔹 [Experience](https://ngoldfine.github.io/experience/) 🔹 [Projects](https://ngoldfine.github.io/projects/)
+## [Education](./education.html) 🔹 [Experience](https://ngoldfine.github.io/experience/) 🔹 [Projects](https://ngoldfine.github.io/projects/)
 
 **Hi, I'm Nora! Here's a little bit about me:**
 - 📚 With an [educational background](https://ngoldfine.github.io/education/) in Linguistics and Natural Language Processing, I thrive on solving intricate problems at the intersection of language and technology
