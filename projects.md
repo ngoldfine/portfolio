@@ -6,7 +6,7 @@
 [Publication](https://aclanthology.org/2023.mrl-1.20.pdf)
 
 - Performed **data visualization** and **qualitative analysis** on the sub-word embeddings of a **cross-lingual language model**, using **dimensionality reduction**, **Seaborn**, and **matplotlib**.
-- Evaluated language model performance on a named entity recognition (**NER**) task.
+- Evaluated language model performance on a named entity recognition (**NER**) task using **PyTorch**.
 - Aided adaptation of a large language model (**LLM**) to low- and mid-resource languages.
 - Coauthored winner of [Best Paper Award at the 3rd Workshop on Multilingual Representation Learning (MRL)](https://sigtyp.github.io/ws2023-mrl.html).
 
