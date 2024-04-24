@@ -11,4 +11,4 @@
 - 🌈 Check my [projects page](https://ngoldfine.github.io/projects/) for my work on LLM adaptation, emotion detection, and lexical variation in Italian literature (I'm pretty excited about it)
 - 📊 I value continuous learning and am eager to collaborate to drive impactful, data-driven solutions
 
-🌌 Connect with me on [LinkedIn](https://www.linkedin.com/in/nora-g-5860b92a1/) 🌌
+✨ Connect with me on [LinkedIn](https://www.linkedin.com/in/nora-g-5860b92a1/) ✨
