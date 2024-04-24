@@ -1,6 +1,6 @@
 ## Data Science | Natural Language Processing
 
-## [Education](./education.html) 🔹 [Experience](./experience.html) 🔹 [Projects](./projects.html)
+### [Education](./education.html) 🔹 [Experience](./experience.html) 🔹 [Projects](./projects.html)
 
 **Hi, I'm Nora! Here's a little bit about me:**
 - 📚 With an [educational background](./education.html) in Linguistics and Natural Language Processing, I thrive on solving intricate problems at the intersection of language and technology
