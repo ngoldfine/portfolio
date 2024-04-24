@@ -2,13 +2,11 @@
 
 # Education
 
-### M.S., Computational Linguistics
-University of Washington (_August 2023_, 3.99 GPA)
+### M.S., Computational Linguistics | University of Washington (_August 2023_, 3.99 GPA)
 
 **Selected courses:** Deep Learning for NLP • Advanced Statistical Methods for NLP • Speech Technology for Endangered Languages • NLP for Cultural Analytics
 
-### B.A., Linguistics | Certificate in Italian
-University of Wisconsin-Madison (_May 2019_, 4.0 GPA)
+### B.A., Linguistics; Certificate in Italian | University of Wisconsin-Madison (_May 2019_, 4.0 GPA)
 
 **Selected courses:** Linguistic Field Methods • Structure of a Language • Intro to Statistical Methods • Intro to Digital Information
 
