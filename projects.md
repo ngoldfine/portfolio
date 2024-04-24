@@ -29,5 +29,6 @@
 [GitHub repo](https://github.com/ngoldfine/wordle-guessers)
 
 - Implemented and tested algorithms for solving Wordle puzzles.
+- Utilized Object Oriented Programming (**OOP**) in **Python**.
 
 [back to main page](./)
