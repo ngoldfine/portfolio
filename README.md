@@ -1,4 +1,4 @@
-# Data Science | Natural Language Processing
+## Data Science | Natural Language Processing
 
 ### [Education](https://ngoldfine.github.io/education/)
 ### [Experience](https://ngoldfine.github.io/experience/)
