@@ -24,6 +24,12 @@
 - Utilized **Python**, **SpaCy**, **Jupyter Notebook**, **Pandas**, **Scikit-Learn**, **matplotlib** and **Seaborn** to preprocess, analyze and visualize data.
 - **Leveraged domain knowledge** of Italian language during dataset cleaning and analysis, allowing for a more informed and nuanced interpretation of results.
 
+### SQL Squirrels
+
+[GitHub repo](https://github.com/ngoldfine/SQL-squirrels)
+
+- Conducted **exploratory data analysis** of the 2018 Central Park Squirrel Census using **SQLite**.
+
 ### Wordle Guessers
 
 [GitHub repo](https://github.com/ngoldfine/wordle-guessers)
