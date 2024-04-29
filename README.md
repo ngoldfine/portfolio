@@ -1,5 +1,3 @@
-## Data Science | Natural Language Processing
-
 ### [Education](./education.html) 🔹 [Experience](./experience.html) 🔹 [Projects](./projects.html)
 
 **Hi, I'm Nora! Here's a little bit about me:**
