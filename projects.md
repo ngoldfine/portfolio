@@ -12,7 +12,7 @@
 
 ### Predicting Human Empathy and Emotion
 [GitHub repo](https://github.com/manisha-Singh-UW/LING573_HUE-Human-Understanding-and-Empathy)
-- **Collaboratively coded** with a small team of other students, earning 5th and 6th place on the leaderboards for two WASSA shared tasks at the time of submission.
+- **Collaboratively coded** on **GitHub** with a small team of other students, earning 5th and 6th place on the leaderboards for two WASSA shared tasks at the time of submission.
 - Performed **error analysis** on results for a natural language processing (**NLP**) regression task using **statistical analysis**, **matplotlib** and **Seaborn**. Conclusions from this analysis guided improvements to the team’s strategy.
 - Trained high-performing **machine learning** models from **Scikit-Learn** for an **ensemble**, improving performance on a **regression task**.
 
