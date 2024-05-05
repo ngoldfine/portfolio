@@ -1,4 +1,4 @@
-# NLP | Machine Learning | Linguistics
+## NLP | Machine Learning | Linguistics
 
 ### [Education](./education.html) 🔹 [Experience](./experience.html) 🔹 [Projects](./projects.html)
 
