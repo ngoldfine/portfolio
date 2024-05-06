@@ -2,7 +2,11 @@
 
 # Projects
 
-### Natural Language Processing
+**[Natural Language Porcessing](#natural-language-processing) | [Miscellaneous](#misc)**
+
+---
+
+### Natural Language Processing {#natural-language-processing}
 
 **Embedding Structure Matters**
 
@@ -31,7 +35,7 @@
 
 ---
 
-### Miscellaneous
+### Miscellaneous {#misc}
 
 **SQL Squirrels**
 
