@@ -49,15 +49,10 @@
 - Diligently annotated language data with morphological information by hand to analyze the structure of conditional constructions.
 - Assisted language revitalization efforts by sharing the final project paper with the Hoocąk language community.
 
-**Lingue regionali in Italia**
+**Lingue italiane: storia e dialetti moderni** and **Lingue regionali in Italia**
 
-- Researched and delivered a presentation on Italian dialectology and linguistic diversity.
-- Expertly delivered a 20-minute presentation entirely in Italian, including fielding audience questions.
-
-**Lingue italiane: storia e dialetti moderni**
-
-- Researched and delivered a presentation on Italian historical linguistics and modern dialectology.
-- Expertly delivered a 20-minute presentation entirely in Italian, including fielding audience questions.
+- Researched and delivered presentations on Italian historical linguistics, modern Italian dialectology and linguistic diversity.
+- Expertly delivered 20-minute presentations entirely in Italian, including fielding audience questions.
 
 ---
 
