@@ -4,7 +4,8 @@
 
 **[Natural Language Processing](#natural-language-processing)** | **[Linguistics](#linguistics)** | **[Miscellaneous](#misc)**
 
-### Natural Language Processing {#natural-language-processing} | [back to top](./projects.html)
+### Natural Language Processing {#natural-language-processing} 
+[back to top](./projects.html)
 
 **Embedding Structure Matters**
 
@@ -33,7 +34,8 @@
 
 ---
 
-### Linguistics {#linguistics} | [back to top](./projects.html)
+### Linguistics {#linguistics} 
+[back to top](./projects.html)
 
 **Indicators of Tense and Aspect in the Sundanese Language**
 
@@ -59,7 +61,8 @@
 
 ---
 
-### Miscellaneous {#misc} | [back to top](./projects.html)
+### Miscellaneous {#misc} 
+[back to top](./projects.html)
 
 **SQL Squirrels**
 
