@@ -11,6 +11,8 @@ Selected courses:
 - Speech Technology for Endangered Languages
 - NLP for Cultural Analytics
 
+---
+
 ### B.A., Linguistics; Certificate in Italian 
 **University of Wisconsin-Madison (_May 2019_, 4.0 GPA)**
 
