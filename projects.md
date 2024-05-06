@@ -29,6 +29,8 @@
 - Utilized **Python**, **SpaCy**, **Jupyter Notebook**, **Pandas**, **Scikit-Learn**, **matplotlib** and **Seaborn** to preprocess, analyze and visualize data.
 - **Leveraged domain knowledge** of Italian language during dataset cleaning and analysis, allowing for a more informed and nuanced interpretation of results.
 
+---
+
 ### Miscellaneous
 
 **SQL Squirrels**
