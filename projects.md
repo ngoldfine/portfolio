@@ -4,8 +4,6 @@
 
 **[Natural Language Processing](#natural-language-processing)** | **[Miscellaneous](#misc)**
 
----
-
 ### Natural Language Processing {#natural-language-processing}
 
 **Embedding Structure Matters**
