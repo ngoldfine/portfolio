@@ -2,9 +2,9 @@
 
 # Projects
 
-**[Natural Language Processing](#natural-language-processing)** | **[Miscellaneous](#misc)**
+**[Natural Language Processing](#natural-language-processing)** | **[Linguistics](#linguistics)** | **[Miscellaneous](#misc)**
 
-### Natural Language Processing {#natural-language-processing}
+### Natural Language Processing {#natural-language-processing} | [back to top](./projects.html)
 
 **Embedding Structure Matters**
 
@@ -33,7 +33,33 @@
 
 ---
 
-### Miscellaneous {#misc}
+### Linguistics {#linguistics} | [back to top](./projects.html)
+
+**Indicators of Tense and Aspect in the Sundanese Language**
+
+- Collaborated with a native speaker consultant to build a dataset using linguistic field methods.
+- Phonetically transcribed spoken language data.
+- Examined an area of Sundanese syntax through analysis of language data.
+
+**Conditional Constructions in the Hoocąk Language**
+
+- Curated a dataset to explore the syntax and morphology of an indigenous endangered language.
+- Diligently annotated language data with morphological information by hand to analyze the structure of conditional constructions.
+- Assisted language revitalization efforts by sharing the final project paper with the Hoocąk language community.
+
+**Lingue regionali in Italia**
+
+- Researched and delivered a presentation on Italian dialectology and linguistic diversity.
+- Expertly delivered a 20-minute presentation entirely in Italian, including fielding audience questions.
+
+**Lingue italiane: storia e dialetti moderni**
+
+- Researched and delivered a presentation on Italian historical linguistics and modern dialectology.
+- Expertly delivered a 20-minute presentation entirely in Italian, including fielding audience questions.
+
+---
+
+### Miscellaneous {#misc} | [back to top](./projects.html)
 
 **SQL Squirrels**
 
