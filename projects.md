@@ -2,7 +2,7 @@
 
 # Projects
 
-**[Natural Language Porcessing](#natural-language-processing) | [Miscellaneous](#misc)**
+**[Natural Language Processing](#natural-language-processing)** | **[Miscellaneous](#misc)**
 
 ---
 
