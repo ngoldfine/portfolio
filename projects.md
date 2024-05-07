@@ -32,6 +32,13 @@
 - Utilized **Python**, **SpaCy**, **Jupyter Notebook**, **Pandas**, **Scikit-Learn**, **matplotlib** and **Seaborn** to preprocess, analyze and visualize data.
 - **Leveraged domain knowledge** of Italian language during dataset cleaning and analysis, allowing for a more informed and nuanced interpretation of results.
 
+**Spoken Dialect Identification for an Endangered Language Using the Lidbox Toolkit**
+
+[Course project paper](https://github.com/ngoldfine/portfolio/files/15228789/final.paper.pdf)
+
+- Assessed a neural **language identification** toolkit's performance on **voice data** for dialects of Romansh, an endangered language.
+- Utilized **Python**, **Pandas** and **Jupyter Notebook** to evaluate neural models.
+
 ---
 
 ### Linguistics {#linguistics} 
@@ -39,11 +46,15 @@
 
 **Indicators of Tense and Aspect in the Sundanese Language**
 
-- Collaborated with a native speaker consultant to build a dataset using linguistic field methods.
+[Course project paper](https://github.com/ngoldfine/portfolio/files/15228896/field.methods.final.project.anonymized.pdf)
+
+- Collaborated with native speaker consultants to build a dataset using linguistic field methods.
 - Phonetically transcribed spoken language data.
 - Examined an area of Sundanese syntax through analysis of language data.
 
 **Conditional Constructions in the Hoocąk Language**
+
+[Course project paper](https://github.com/ngoldfine/portfolio/files/15228826/ling571.final.project.pdf)
 
 - Curated a dataset to explore the syntax and morphology of an indigenous endangered language.
 - Diligently annotated language data with morphological information by hand to analyze the structure of conditional constructions.
