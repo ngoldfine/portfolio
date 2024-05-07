@@ -29,7 +29,7 @@
 [Course project paper](https://github.com/ngoldfine/portfolio/files/14779736/ling575_final_project.pdf)
 
 - Resourcefully **curated a multilingual dataset** of historical Italian-peninsula texts from online sources.
-- Utilized **Python**, **regex**, **SpaCy**, **Jupyter Notebook**, **Pandas**, **Scikit-Learn**, **matplotlib** and **Seaborn** to preprocess, analyze and visualize data.
+- Utilized **Python**, **regex**, **SpaCy**, **Jupyter Notebook**, **Pandas**, **SciPy**, **Scikit-Learn**, **matplotlib** and **Seaborn** to preprocess, analyze and visualize data.
 - **Leveraged domain knowledge** of Italian language during dataset cleaning and analysis, allowing for a more informed and nuanced interpretation of results.
 
 **Spoken Dialect Identification for an Endangered Language Using the Lidbox Toolkit**
