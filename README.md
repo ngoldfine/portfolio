@@ -1,6 +1,6 @@
 ## NLP | Machine Learning | Linguistics
 
-### [Education](./education.html) 🔹 [Experience](./experience.html) 🔹 [Projects](./projects.html)
+### [Experience](./experience.html) 🔹 [Projects](./projects.html) 🔹 [Education](./education.html)
 
 **Hi, I'm Nora! Here's a little bit about me:**
 - 📚 With an [educational background](./education.html) in linguistics and natural language processing, I thrive on solving intricate problems at the intersection of language and technology
