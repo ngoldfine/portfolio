@@ -2,6 +2,12 @@
 
 # Experience
 
+### Consulting Linguist; Software Development
+**Memra Language Services (_2024 - Present_)** | Madison, WI (Remote)
+
+### Lecturer in Computer Science
+**Oakton College (_2024 - Present_)** | Des Plaines, IL
+
 ### Computer Science and Math Tutor
 **Oakton College (_2020 - Present_)** | Des Plaines, IL
 
